@@ -12,6 +12,15 @@ nav_order: 1
 
 ---
 
+## Daily Stock Analysis
+
+LLM 驱动的多市场股票智能分析系统，整合多源行情和实时新闻，提供决策看板与自动推送，并支持零成本定时运行。
+
+- **主要语言：** Python
+- **核心能力：** 多市场行情、实时新闻、AI 分析、决策看板、自动通知
+- **在线使用：** [dsa.zhulinsen.tech](https://dsa.zhulinsen.tech)
+- **源代码：** [github.com/Creeper998/daily_stock_analysis](https://github.com/Creeper998/daily_stock_analysis)
+
 ## PersonalWeb
 
 个人网站项目，使用 TypeScript 开发。
